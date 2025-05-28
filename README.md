@@ -40,12 +40,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> _Coming Soon_ — Add UI snapshots of dashboard, booking page, chat module, etc.
-
----
-
 ## 🚀 Setup Instructions
 
 1. **Clone the Repository**
